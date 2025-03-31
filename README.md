@@ -52,3 +52,6 @@ Objective: Assess the geographic distribution of sales across different location
 7. All Metrics by Outlet Type:
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 Chart Type: Matrix Card.
+
+
+Screenshot 2025-03-20 183603.jpg
